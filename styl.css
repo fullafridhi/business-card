@@ -1,0 +1,103 @@
+
+/* start box1*/
+body{ 
+    background-image:url(../bg.png);
+}
+#box1 {
+    border-style: none;
+    background-color: black;
+    width: 200px;
+    height: 300px;
+    position: relative;
+    left: 31%;
+    top:250px;
+
+}
+
+img{
+    width: 200px;
+    height: 100px;
+    padding-left:-40px;
+}
+
+
+/*finish box1*/
+/*start box2*/
+#box2 {
+    border-right: none;
+    background-color: white;
+    width: 350px;
+    height: 300px;
+    position:relative;
+    left: 100%;
+    bottom: 104px;
+}
+#rex{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif; 
+    color: black(223, 12, 12);
+     font: size 30px;
+     bottom: 420px;
+     right: -110%;
+   
+}
+P{
+    position: relative;
+    color: black(223, 12, 12);
+     font: size 30px;
+     bottom:435px;
+     right:-110%;
+   
+}
+hr{
+    position: relative;
+    border-width: 1px;
+    border-color: black;
+    bottom: 320px;
+    right: -220px;
+}
+ .containe{
+    
+    color: black;
+    margin-top:30px;
+}
+  
+/*end box2*/
+/*icons*/
+
+#facebook{
+    border: 2px solid black;
+    margin-left: 10px;
+    padding: 10px;
+    position:relative;
+    top:80%;
+ }
+ #twitter{
+    border: 2px solid black;
+     margin-left: 10px; 
+    padding: 10px; 
+    position:relative;
+    top:80%;
+ }
+ #google{
+    border: 2px solid black;
+    padding: 10px;
+    margin-left: 10px;
+    position:relative;
+    top:80%;
+ }
+ #linkedin{
+    border: 2px solid black;
+    padding: 10px;
+    margin-left: 10px;
+    position:relative;
+    top:80%;
+ }
+ #codepen{
+    border: 2px solid black;
+    padding: 10px;
+    margin-left: 10px;
+    position:relative;
+    top:80%;
+ }
+ /*end icons*/
